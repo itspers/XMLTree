@@ -1,0 +1,15 @@
+.tree div {
+	/* border: 1px solid #CCCCCC;*/
+
+  margin: 5px 0;
+	padding: 5px 5px 5px 10px;
+}
+
+.tree div b {
+	cursor:pointer;
+
+}
+
+.tree span {
+	display:block;
+}
